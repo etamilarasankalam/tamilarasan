@@ -1,0 +1,12 @@
+a=[10,2,"tup","lit",8,4,7,23,45,6]
+i=0
+print(a[i])
+i=i+2
+print(a[i])
+i=i+2
+print(a[i])
+i=i+2
+print(a[i])
+i=i+2
+print(a[i])
+i=i+2
